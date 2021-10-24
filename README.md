@@ -35,7 +35,7 @@
 
 #### 🚀 About
 
-1º Dia: Back-End com Node.js
+1st Day: Back-End with Node.js
 
 The entire architecture of the Server that will be responsible for managing messages was developed, as well as Github's authentication system.
 
